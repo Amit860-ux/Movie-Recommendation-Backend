@@ -30,5 +30,3 @@ All user searches and results are saved in an SQLite database for tracking and a
 - **CSS (Modern Responsive Design)**
 
 ---
-
-## 📁 Project Structure
